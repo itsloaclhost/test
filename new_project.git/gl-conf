@@ -1,0 +1,20 @@
+%one_repo = (
+  'root/new_project' => {
+    'rahul_local_host_1363181290' => [
+      [
+        4,
+        'RW+',
+        'refs/.*'
+      ]
+    ]
+  }
+);
+%one_config = (
+  'root/new_project' => [
+    [
+      5,
+      'core.sharedRepository',
+      '0660'
+    ]
+  ]
+);
